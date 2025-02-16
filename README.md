@@ -34,7 +34,7 @@ This repository contains CUDA utility functions for device detection, memory all
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kamlesh364/cuda-utils.git
+   git clone https://github.com/kamlesh364/CUDA-GaussianBlur.git
    cd cuda-utils
    ```
 
